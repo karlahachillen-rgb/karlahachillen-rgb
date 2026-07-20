@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Karla+Mattos!;Em+transi%C3%A7%C3%A3o+para+Desenvolvimento...;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Oii%2C+eu+sou+a+Karla+Mattos!;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 Sobre Mim
