@@ -56,3 +56,6 @@ Sou uma entusiasta da tecnologia em transição de carreira para a área de <b>D
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/karlahachillen-rgb/karlahachillen-rgb/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
+   
