@@ -37,12 +37,12 @@ Sou uma entusiasta da tecnologia em transição de carreira para a área de <b>D
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlahachillen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&bg_color=282A36" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlahachillen&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&bg_color=282A36" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlahachillen-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&bg_color=282A36" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlahachillen-rgb&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&bg_color=282A36" alt="Linguagens Mais Usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlahachillen&theme=dracula&hide_border=true&fire=FF79C6&ring=BD93F9&currStreakLabel=FF79C6&currStreakNum=F8F8F2" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlahachillen-rgb&theme=dracula&hide_border=true&fire=FF79C6&ring=BD93F9&currStreakLabel=FF79C6&currStreakNum=F8F8F2" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -51,8 +51,8 @@ Sou uma entusiasta da tecnologia em transição de carreira para a área de <b>D
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karlahachillen/karlahachillen/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karlahachillen/karlahachillen/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/karlahachillen/karlahachillen/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karlahachillen-rgb/karlahachillen-rgb/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karlahachillen-rgb/karlahachillen-rgb/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/karlahachillen-rgb/karlahachillen-rgb/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
