@@ -5,7 +5,7 @@
 ## 👩‍💻 Sobre Mim
 
 <p align="left">
-Sou uma entusiasta da tecnologia em transição de carreira para a área de <b>Desenvolvimento de Software</b>. Dedicada a aprender novas linguagens, frameworks e construir soluções práticas e eficientes!
+Graduanda em Engenharia de Software em transição de carreira para Desenvolvimento. Apaixonada por tecnologia, focada no aprendizado contínuo e no desenvolvimento de soluções práticas com código. 🛠️✨
 </p>
 
 ---
