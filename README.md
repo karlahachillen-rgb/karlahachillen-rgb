@@ -10,6 +10,17 @@ Graduanda em Engenharia de Software em transição de carreira para Desenvolvime
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<div align="left">
+  
+* ⚡ **[Gerador de Sites & Vitrine Virtual](https://vitrine-nu-six.vercel.app/)** — Aplicação interativa que gera landing pages personalizadas e exibe o código-fonte em tempo real a partir da descrição do negócio feita pelo usuário. *(Hospedado na Vercel)*
+* 🌐 **[Landing Page de Portfólio](https://karlahachillen-rgb.github.io/portfolio-web/)** — Meu portfólio pessoal responsivo construído em HTML5, CSS3 e JavaScript. *(Hospedado no GitHub Pages)*
+
+</div>
+
+---
+
 ## 🛠 Tecnologias e Ferramentas
 
 <div style="display: inline-block">
@@ -56,6 +67,3 @@ Graduanda em Engenharia de Software em transição de carreira para Desenvolvime
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/karlahachillen-rgb/karlahachillen-rgb/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-
-   
