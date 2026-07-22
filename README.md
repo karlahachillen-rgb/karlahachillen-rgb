@@ -13,9 +13,10 @@ Graduanda em Engenharia de Software em transição de carreira para Desenvolvime
 ## 🚀 Projetos em Destaque
 
 <div align="left">
-  
+
 * ⚡ **[Gerador de Sites & Vitrine Virtual](https://vitrine-nu-six.vercel.app/)** — Aplicação interativa que gera landing pages personalizadas e exibe o código-fonte em tempo real a partir da descrição do negócio feita pelo usuário. *(Hospedado na Vercel)*
 * 🌐 **[Landing Page de Portfólio](https://karlahachillen-rgb.github.io/portfolio-web/)** — Meu portfólio pessoal responsivo construído em HTML5, CSS3 e JavaScript. *(Hospedado no GitHub Pages)*
+* ⚔️ **[Arena do Multiverso](https://karlahachillen-rgb.github.io/multiverso-arena/)** — Aplicação interativa de simulação de batalhas que consome APIs REST (Wikipedia e DiceBear) para comparar estatísticas e simular duelos de personagens em tempo real. *(Hospedado no GitHub Pages)*
 
 </div>
 
