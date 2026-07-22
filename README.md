@@ -48,8 +48,8 @@ Graduanda em Engenharia de Software em transição de carreira para Desenvolvime
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlahachillen-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&bg_color=282A36" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlahachillen-rgb&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&bg_color=282A36" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=karlahachillen-rgb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&bg_color=282A36" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karlahachillen-rgb&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&bg_color=282A36" alt="Linguagens Mais Usadas" />
 </p>
 
 <p align="center">
